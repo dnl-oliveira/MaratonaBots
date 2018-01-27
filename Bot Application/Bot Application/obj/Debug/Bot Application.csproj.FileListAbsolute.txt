@@ -1,0 +1,52 @@
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Bot Application.dll.config
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Bot Application.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Bot Application.pdb
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Autofac.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Chronic.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.Bot.Connector.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Logging.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Newtonsoft.Json.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\System.Net.Http.Formatting.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\System.Web.Http.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\System.Web.Http.WebHost.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Autofac.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.Bot.Connector.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Logging.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\Newtonsoft.Json.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\System.Net.Http.Formatting.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\System.Web.Http.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\System.Web.Http.WebHost.xml
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\obj\Debug\Bot Application.csprojResolveAssemblyReference.cache
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\obj\Debug\Bot Application.csproj.CoreCompileInputs.cache
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\obj\Debug\Bot Application.dll
+D:\Documents\_maratonaBots\_Projeto\Bot Application\Bot Application\obj\Debug\Bot Application.pdb
